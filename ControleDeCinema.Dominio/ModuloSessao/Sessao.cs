@@ -4,7 +4,7 @@ using ControleDeCinema.Dominio.ModuloSala;
 using System.Diagnostics.CodeAnalysis;
 
 namespace ControleDeCinema.Dominio.ModuloSessao;
-
+// teste
 public class Sessao : EntidadeBase<Sessao>
 {
     public DateTime Inicio { get; set; }
